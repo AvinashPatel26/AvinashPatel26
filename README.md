@@ -120,11 +120,10 @@ Agile, Scrum
 📧 Email: patelavinash2693@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/avinash-patel-95512b356  
 💻 GitHub: https://github.com/AvinashPatel26
-📄 [View Resume](./Avinash_Patel_resume1.pdf)
-
+📄 [View Resume](./resume.pdf)
 
 ## 📊 GitHub Stats
 
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinashPatel26&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPatel26&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel26&layout=compact)
