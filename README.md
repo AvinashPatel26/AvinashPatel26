@@ -1,70 +1,63 @@
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-02569B?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 # 👋 Hi, I'm Avinash Patel
 
-### 🚀 Java Full Stack Developer | Spring Boot | React | Microservices
+### 🚀 Java Full Stack Developer | Spring Boot | Microservices | React
 
-Passionate about building scalable web applications, REST APIs, Microservices, and AI-powered solutions using modern technologies.
-
----
-
-# 👨‍💻 About Me
-
-- 🎓 MCA Student at Bhabha University, Bhopal
-- 💻 Java Full Stack Developer
-- 🌱 Currently Learning:
-  - Spring AI
-  - Advanced Microservices
-  - Docker & Kubernetes
-  - MongoDB
-  - System Design
-- 🚀 Building enterprise-grade applications using Spring Boot and React
-- 📚 Strong foundation in Data Structures, OOP, and Backend Development
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AvinashPatel26&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-# 🎓 Education
+## 💫 About Me
 
-### Master of Computer Applications (MCA)
-📍 Bhabha University, Bhopal  
-📅 2024 – Present  
-🎯 CGPA: 8.07
+💻 Passionate Java Full Stack Developer with experience building scalable web applications using Spring Boot, React, REST APIs, and Microservices.
 
-### Bachelor of Science (B.Sc.)
-📍 Mathura Prasad Mahavidyalaya, Jalaun  
-📅 2020 – 2023
+🎓 Pursuing Master of Computer Applications (MCA)
 
----
+🌱 Currently Learning:
+- Spring AI
+- Advanced Microservices
+- Docker & Kubernetes
+- System Design
+- Cloud Technologies
 
-# 💼 Experience
-
-## 🔹 Java Full Stack Intern
-### Techworld Solutions
-📅 Aug 2025 – Feb 2026
-
-- Developed REST APIs using Spring Boot Microservices
-- Designed scalable backend services
-- Built responsive user interfaces using React.js
-- Worked with Oracle Database
-- Participated in deployment and testing activities
-- Followed Agile development practices
+🎯 Career Goal:
+Become a highly skilled Backend Engineer specializing in Java, Spring Ecosystem, and Cloud-Native Applications.
 
 ---
 
-## 🔹 Java Full Stack Trainee
-### Sathya Technologies
-📅 Jan 2024 – Jul 2024
+## 🚀 Tech Stack
 
-- Built RESTful APIs using Spring Boot
-- Implemented JWT Authentication & Authorization
-- Integrated React frontend with backend APIs
-- Worked with Git and GitHub workflows
-- Participated in Agile/Scrum development
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-02569B?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -74,32 +67,29 @@ Passionate about building scalable web applications, REST APIs, Microservices, a
 
 🔗 Live Demo: https://interview-ai-dl0f.onrender.com/
 
-An AI-powered mock interview platform designed to help students and professionals prepare for technical interviews.
+An AI-powered mock interview platform designed to help candidates prepare for technical and HR interviews.
 
 ### Features
 
 - AI Generated Interview Questions
-- Technical & HR Interview Rounds
-- Real-time Question Flow
-- Modern Responsive UI
-- React Frontend
-- nodejs APIs
-- Performance Optimized Architecture
+- Technical Interview Preparation
+- HR Interview Practice
+- Responsive UI
+- Real-Time Interview Flow
 
 ### Tech Stack
 
+- MongoDB
+- Express.js
 - React.js
+- Node.js
 - Tailwind CSS
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Render Deployment
 
 ---
 
-## 🏋️ Fitness Tracking Microservices Platform
+## 🏋️ Fitness Tracking Platform (Microservices)
 
-Currently building a production-ready Fitness Tracking Application using Spring Boot Microservices architecture.
+Currently building a scalable Fitness Tracking Application using Spring Boot Microservices Architecture.
 
 ### Modules
 
@@ -107,159 +97,147 @@ Currently building a production-ready Fitness Tracking Application using Spring 
 - Activity Service
 - Goal Service
 - API Gateway
-- Service Discovery
-- Authentication & Authorization
-- Spring Security + JWT
+- Eureka Discovery Server
+- JWT Authentication
+- Spring Security
 
 ### Tech Stack
 
+- Java
 - Spring Boot
-- Spring Security
 - Spring Cloud
-- Microservices
 - PostgreSQL
 - Docker
-- Eureka Server
-- API Gateway
+- Microservices
+
+---
+
+## 👨‍💼 Employee REST API Project
+
+RESTful Backend Application developed using Spring Boot following enterprise-level layered architecture.
+
+### Architecture
+
+Entity → Repository → Service → Controller → DTO
+
+### Features
+
+- Employee CRUD Operations
+- Data Validation
+- Global Exception Handling
+- REST API Best Practices
+- JPA & Hibernate Integration
+- Layered Architecture
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- Postman
 
 ---
 
 ## 🏦 Console Banking Application
 
-A Java-based banking management system built using Core Java concepts.
+Java console-based banking system demonstrating Object-Oriented Programming concepts.
 
 ### Features
 
-- Create Account
+- Account Creation
 - Deposit Money
 - Withdraw Money
-- Check Balance
-- Transaction Handling
-- Menu Driven Interface
+- Balance Inquiry
+- Transaction Management
+- Exception Handling
 
 ### Tech Stack
 
-- Java
-- OOP Concepts
+- Core Java
+- OOP
 - Collections Framework
 - Exception Handling
 
 ---
 
-# 🛠️ Technical Skills
+# 💼 Experience
 
-## 💻 Programming Languages
+## Java Full Stack Intern
+### Techworld Solutions
 
-- Java
-- JavaScript
-- HTML5
-- CSS3
+📅 Aug 2025 – Feb 2026
 
----
-
-## 🎨 Frontend Technologies
-
-- React.js
-- Tailwind CSS
-- Bootstrap
-- Responsive Design
-- JavaScript ES6+
+- Developed REST APIs using Spring Boot Microservices
+- Built responsive React.js applications
+- Worked with Oracle Database
+- Participated in testing and deployment
+- Followed Agile methodologies
 
 ---
 
-## ⚙️ Backend Technologies
+## Java Full Stack Trainee
+### Sathya Technologies
 
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Spring Security
-- JWT Authentication
-- REST APIs
-- Microservices Architecture
+📅 Jan 2024 – Jul 2024
 
----
-
-## 🗄️ Databases
-
-- PostgreSQL
-- Oracle Database
-- MySQL
-- MongoDB (Learning)
+- Developed Spring Boot APIs
+- Implemented JWT Authentication
+- Integrated React Frontend
+- Collaborated using Git & GitHub
 
 ---
 
-## ☁️ DevOps & Cloud
+# 🎓 Education
 
-- Docker (Learning)
-- Render
-- AWS (Learning)
+### Master of Computer Applications (MCA)
 
----
+📍 Bhabha University, Bhopal
 
-## 🔧 Tools & Platforms
+CGPA: 8.07
 
-- Git
-- GitHub
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Eclipse
-- Maven
+2024 – Present
 
 ---
 
-## 📌 Methodologies
+### Bachelor of Science (B.Sc.)
 
-- Agile
-- Scrum
-- SDLC
+📍 Mathura Prasad Mahavidyalaya, Jalaun
 
----
-
-# 📜 Certifications
-
-- Java Full Stack Internship — Techworld Solutions (2026)
-- Full Stack Development Bootcamp — Udemy (2025)
-- Java Programming Certification — Udemy (2025)
+2020 – 2023
 
 ---
 
-# 🏆 Achievements
-
-- Developed Full Stack Applications using Spring Boot and React
-- Built AI-Powered Interview Preparation Platform
-- Designed RESTful APIs and Microservices
-- Participated in Coding Challenges and Hackathons
-- Continuously Learning Modern Software Architecture
-
----
-
-# 📈 Current Focus
+# 🌱 Currently Learning
 
 - Spring AI
-- Microservices Architecture
+- Advanced Microservices
 - Docker & Kubernetes
 - System Design
+- MongoDB
 - Cloud Deployment
-- AI Integration in Enterprise Applications
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPatel26&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AvinashPatel26&theme=github-dark-blue)
 
 ---
 
 # 🤝 Connect With Me
 
-📧 Email: patelavinash2693@gmail.com
+📧 Email: **patelavinash2693@gmail.com**
 
-💼 LinkedIn: https://linkedin.com/in/avinash-patel-95512b356
+💼 LinkedIn:  
+https://www.linkedin.com/in/avinash-patel-95512b356/
 
-💻 GitHub: https://github.com/AvinashPatel26
+💻 GitHub:  
+https://github.com/AvinashPatel26
 
 ---
 
-# 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AvinashPatel26&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel26&layout=compact&theme=radical)
----
-
-⭐ If you like my projects, feel free to star the repositories and connect with me.
+### ⭐ "Building scalable applications, learning continuously, and growing one project at a time."
