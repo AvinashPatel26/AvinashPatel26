@@ -222,14 +222,11 @@ CGPA: 8.07
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AvinashPatel26&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel26&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinashPatel26&theme=github_dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AvinashPatel26&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvinashPatel26&theme=github_dark)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AvinashPatel26&theme=github_dark)
 
 # 🤝 Connect With Me
 
