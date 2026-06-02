@@ -83,7 +83,7 @@ An AI-powered mock interview platform designed to help students and professional
 - Real-time Question Flow
 - Modern Responsive UI
 - React Frontend
-- Spring Boot Backend APIs
+- nodejs APIs
 - Performance Optimized Architecture
 
 ### Tech Stack
