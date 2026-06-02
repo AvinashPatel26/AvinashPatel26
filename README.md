@@ -255,12 +255,11 @@ A Java-based banking management system built using Core Java concepts.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPatel26&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=AvinashPatel26&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel26&layout=compact&theme=radical&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashPatel26&layout=compact&theme=radical)
 ---
 
 ⭐ If you like my projects, feel free to star the repositories and connect with me.
