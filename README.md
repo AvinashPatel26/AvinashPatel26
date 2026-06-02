@@ -226,7 +226,7 @@ CGPA: 8.07
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AvinashPatel26&theme=github_dark)
 
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AvinashPatel26&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=AvinashPatel26&theme=radical)
 
 # 🤝 Connect With Me
 
